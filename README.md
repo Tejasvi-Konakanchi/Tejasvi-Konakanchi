@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Tejasvi Konakanchi 👋
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/f8/00/be/f800bea4f45729f2edb06830c44482c9.jpg" alt="Hardware Engineering Banner" width="100%">
+</p>
+
 
 <!--
 **Tejasvi-Konakanchi/Tejasvi-Konakanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
