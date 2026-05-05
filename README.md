@@ -1,13 +1,12 @@
-## Hi there, I'm Tejasvi Konakanchi 👋
-
 <p align="center">
-  <img src="https://i.pinimg.com/736x/f8/00/be/f800bea4f45729f2edb06830c44482c9.jpg" 
-       alt="Hardware Engineering Banner" 
-       width="800" 
-       height="200" 
-       style="object-fit: cover; border-radius: 10px;">
+  <img src="https://i.pinimg.com/736x/46/62/0f/46620f76d7098e6c6f2c85654d45b8e8.jpg" alt="Hardware Engineering Banner" width="100%">
 </p>
 
+## Hi there, It's Teja here🐱
+
+- I'm currently working on Digital Systems and Continuous Time Linear Systems.
+- I'm currently learning Verilog and ARM
+- Looking for a mentor! contact me: [tejasvi.konakanchi@gmail.com](mailto:tejasvi.konakanchi@gmail.com) 
 <!--
 **Tejasvi-Konakanchi/Tejasvi-Konakanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
