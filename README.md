@@ -4,8 +4,8 @@
 
 ## Hi there, It's Teja here🐱
 
-- I'm currently working on Digital Systems and Continuous Time Linear Systems.
-- I'm currently learning Verilog and ARM
+- I'm currently working on Digital Electronics, and Data Structures.
+- I'm currently learning Verilog and C.
 - Looking for a mentor! contact me: [tejasvi.konakanchi@gmail.com](mailto:tejasvi.konakanchi@gmail.com) 
 <!--
 **Tejasvi-Konakanchi/Tejasvi-Konakanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
